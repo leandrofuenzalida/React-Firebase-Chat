@@ -1,0 +1,11 @@
+{
+  "name": "React-Firebase-Yarn",
+  "version": "1.0.0",
+  "description": "Chat with React and Firebase",
+  "main": "index.js",
+  "author": "LF",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^1.4.3"
+  }
+}
